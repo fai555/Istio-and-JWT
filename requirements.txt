@@ -1,2 +1,2 @@
-jwcrypto==0.7
+jwcrypto==1.5.5
 python-jwt==3.2.6
